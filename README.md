@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PopularAlan
-- 👀 I’m interested in Python, SQL, Javascript, Lua, HTML
-- 🌱 I’m currently learning SQL, Python
+- 👀 I’m interested in Python, SQL, GameMaker Language, Lua, 
+- 🌱 I’m currently learning Python, GameMaker Language, SQL 
 - 💞️ I’m looking to collaborate with me
 - 📫 How to reach me...https://padlet.com/Popular_boy
 
